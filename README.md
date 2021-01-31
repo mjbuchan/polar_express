@@ -7,7 +7,7 @@ All aboard the calculating normalised polarity vectors from histograms express.
 
 ## What is this for?
 
-There are lots of ways for calculating polarity of dendrites - this is another... also a thinly veiled excuse for memes.
+There are lots of ways for calculating polarity of dendrites (most are vectorised, slow and gross) - this is another... also a thinly veiled excuse for memes.
 
 ### How does it work? 
 
